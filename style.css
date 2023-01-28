@@ -652,6 +652,9 @@ footer .copyright{
         padding: 0 20px;
         background-position: 55%;
     }
+    #hero .classShade button{
+        height: 6vh;
+    }
     #feature{
         justify-content: space-between;
     }
